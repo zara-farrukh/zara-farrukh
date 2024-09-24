@@ -61,7 +61,3 @@
     </tr>
   </tbody>
 </table>
-
-<a href="https://git.io/streak-stats">
-  <img height=187.5 align="left" src="https://streak-stats.demolab.com/?user=zarafarrukh&hide_border=true&theme=dracula&border_radius=25"/>
-</a>
